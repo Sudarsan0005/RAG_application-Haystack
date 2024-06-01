@@ -1,0 +1,8 @@
+.venv
+data
+uploads
+=
+test.py
+.idea
+DB
+__pycache__
